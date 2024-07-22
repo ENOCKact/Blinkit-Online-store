@@ -1,1 +1,3 @@
 # Blinkit-Online-store
+
+##Instrunctions
